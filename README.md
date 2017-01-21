@@ -1,2 +1,3 @@
 # CS240
-School Project
+School Project.
+FOR REFERENCE ONLY! DO NOT COPY!
